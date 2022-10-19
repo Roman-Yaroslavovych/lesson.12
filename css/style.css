@@ -55,7 +55,7 @@
   bottom: 0;
   left: 48%;
   transform-origin: bottom left;
-  transition: all 0.9s;
+  transition: all 0.8s;
 }
 
 .ship:hover {
